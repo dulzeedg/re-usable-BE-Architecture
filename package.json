@@ -1,0 +1,17 @@
+{
+  "name": "productBE",
+  "version": "1.0.0",
+  "description": "simple backend API",
+  "main": "server.js",
+  "author": "abdul Aziz S. <saeedabdul05@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "mongoose": "^5.9.28"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  }
+}
