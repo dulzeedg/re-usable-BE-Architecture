@@ -1,0 +1,8 @@
+- Users
+- Shop Owner / Admin
+- SW operators ( lesser admins )
+
+vendor specific
+
+
+

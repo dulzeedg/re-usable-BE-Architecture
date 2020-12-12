@@ -1,13 +1,14 @@
 {
   "name": "productBE",
   "version": "1.0.0",
-  "description": "simple backend API",
+  "description": "simple re-usable backend for e-commerce",
   "main": "server.js",
   "author": "abdul Aziz S. <saeedabdul05@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "express": "^4.17.1",
     "express-graphql": "^0.11.0",
+    "googleapis": "^59.0.0",
     "graphql": "^15.3.0",
     "mongoose": "^5.9.28"
   },
