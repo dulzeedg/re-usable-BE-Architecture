@@ -3,6 +3,7 @@
 
 
 Goal
+- Clean Architedture
 - Something simple / less code
 - Flexible
 - Adaptable
